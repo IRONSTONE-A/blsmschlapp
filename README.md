@@ -1,6 +1,9 @@
 
 # :point_right: [Click here to see on browser](https://blsmschlapp.vercel.app/login)
 
+
+![Random User App](https://github.com/IRONSTONE-A/blsmschlapp/blob/master/blsmschl.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
